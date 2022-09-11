@@ -8,6 +8,7 @@ Requirements:
 . Pydantic
 . Python 3.6+
 . Uvicorn
+. SETU account, follow -> https://setu.co/data/account-aggregator
 
 Working Demo Link: https://www.loom.com/share/657355de2ba243fab4fca205a2519eb9
 
